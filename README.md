@@ -1,16 +1,19 @@
-<!--### Hi there 👋
+<!-- ## Hi there!👋 I'm Sanya Rastogi
+### A passionate Data Analyst! -->
+
+<h1 align="center">Hi👋, I'm Sanya Rastogi </h1>
+<h3 align="center">A passionate Data Analyst📊 from India </h3>
 
 
-**Sanyarastogi28/Sanyarastogi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Sanyarastogi28/Sanyarastogi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 II’m a life long learner, currently exploring more about Data Analytics!
+- 🌱 I’m currently learning and upskilling myself. 
+- 🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel
+- 📚 Expertise lies in data collection, data cleaning, data analysis, and data visualization.
+- 💬 Ask me about SQL, Power BI
+- 📫 Reach me at **[Gmail](mailto:rastogi.sanya28@gmail.com)** - rastogi.sanya28@gmail.com
+- 🔗 Connect with me at **[LinkedIn](https://www.linkedin.com/in/rastogi-sanya/)** - www.linkedin.com/in/rastogi-sanya/
+- ❤️ I love learning new things!
